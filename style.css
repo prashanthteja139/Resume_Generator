@@ -1,0 +1,20 @@
+
+.myimg{
+    border: 1px solid rebeccapurple;
+    border-radius: 50%;
+    width: 200px;
+    
+}
+#cv-template{
+    display: none;
+}
+.background{
+    background-color: aqua;
+    word-wrap: break-word;
+}
+.bodystyle{
+    font-family: monospace;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,0.1092086492800245) 35%, rgba(0,212,255,1) 100%);
+font-style: italic;
+}
