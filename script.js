@@ -10,7 +10,7 @@ function addNewWEField(){
     let weAddButtonOb=document.getElementById("weAddButton");
     weOb.insertBefore(newNode,weAddButtonOb);
 }
-function addnewAQField(){
+function addNewAQField(){
     let newNode=document.createElement('textarea');
     newNode.classList.add('form-control');
     newNode.classList.add('aqField');
