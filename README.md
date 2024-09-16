@@ -9,8 +9,7 @@ A responsive web application for generating professional resumes. This project a
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
+
 
 ## Features
 - Form-based user input for personal details, work experience, education, and skills.
